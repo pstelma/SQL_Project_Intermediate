@@ -10,7 +10,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Clean Up Data
 
-** Query**: [0_create_view.sql](0_create_view.sql)
+** Query**: [VIEW_Script.sql](VIEW_Script.sql)
 
 - Aggregated sales and customer data into revenue metrics
 - Calculated first purchase dates for cohort analysis
@@ -112,3 +112,4 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - **Analysis Tools:** PostgreSQL, Dbeaver
 
 - **Visualization:** ChatGPT
+
