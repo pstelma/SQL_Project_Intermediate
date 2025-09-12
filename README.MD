@@ -1,7 +1,7 @@
 # Intermediate SQL - Sales Analysis
 
 ## Overview
-Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company. Conducted on the Microsoft's hypothetical Contoso data set.
 
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?
@@ -110,4 +110,5 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 ## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, Dbeaver
+
 - **Visualization:** ChatGPT
