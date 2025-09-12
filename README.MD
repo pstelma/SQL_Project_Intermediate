@@ -28,7 +28,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ** Visualization:**
 
-<img src="../Resources/images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
+<img src="C:/Users/lukke/Desktop/SQL_INTERMEDIATE/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
 
  **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -112,4 +112,5 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - **Analysis Tools:** PostgreSQL, Dbeaver
 
 - **Visualization:** ChatGPT
+
 
