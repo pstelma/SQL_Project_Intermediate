@@ -21,7 +21,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 1. Customer Segmentation
 
- Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
+ Query: [1_segmentation_analysis.sql](1_segmentation_analysis.sql)
 
 - Categorized customers based on total lifetime value (LTV)
 - Assigned customers to High, Mid, and Low-value segments
@@ -121,6 +121,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - **Analysis Tools:** PostgreSQL, Dbeaver
 
 - **Visualization:** ChatGPT
+
 
 
 
