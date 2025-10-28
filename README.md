@@ -55,7 +55,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-<img width="870" height="527" alt="image" src="https://github.com/user-attachments/assets/dbd797e8-a71a-4b3a-a6dd-75593f42c419" />
+<img width="870" height="527" alt="image" src="https://github.com/user-attachments/assets/cb7ca7c6-1851-4f24-94e7-c66fb8376586" />
+
 
 
 
@@ -121,6 +122,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - **Analysis Tools:** PostgreSQL, Dbeaver
 
 - **Visualization:** ChatGPT
+
 
 
 
